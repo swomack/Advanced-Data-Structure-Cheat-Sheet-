@@ -43,3 +43,8 @@ Segment Tree/Segment Tree/Segment Tree/Debug/Segment Tree.tlog/link.write.1.tlog
 Segment Tree/Segment Tree/Segment Tree/Debug/Source.obj
 Segment Tree/Segment Tree/Segment Tree/Debug/vc141.idb
 Segment Tree/Segment Tree/Segment Tree/Debug/vc141.pdb
+*.db
+*.opendb
+*.ipch
+*.tlog
+*.idb
